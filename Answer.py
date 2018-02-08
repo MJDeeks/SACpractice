@@ -89,4 +89,4 @@ if(status == "FL"):
         exit(0)
 
 #if not correct information the licence is invalid
-print("Invalid licence")
+print("Invalid licence") 
